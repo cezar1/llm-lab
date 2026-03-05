@@ -31,6 +31,7 @@ setup(
         "numpy>=1.20.0",
         "matplotlib>=3.5.0",
         "scikit-learn>=1.0.0",
+        "ipykernel>=6.0.0",
     ],
     extras_require={
         "dev": [
